@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rivalsxninjax1
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning neurak networks
+- 🌱 I’m currently learning neural networks
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me through my socials 
 
